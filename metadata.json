@@ -1,0 +1,6 @@
+{
+  "name": "Avalos Epoxy Floor",
+  "description": "High-performance epoxy flake, quartz, and solid epoxy flooring systems engineered for residential, commercial, and showroom transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
